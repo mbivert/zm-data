@@ -1,0 +1,145 @@
+# NOTE: this is temporary data, with unclear, unverified and currently
+# unloadable content.
+#
+# Could be used as a test-bed for multiple entries per decomposition table.
+#
+# TODO:
+#	- use a wm-decomp.csv like formatting
+#	- clearly separate visual (current form) decomposition and decomposition
+#	apparent in ancient forms; latter may be useless if we can find a proper
+#	already existing table
+
+# Current entry is:
+#	憂	15	冖	百	6		𢖻	7		MBPHE	心
+憂	15	吕	一自冖	9		𢖻	7		MBPHE	心
+
+# source: http://chinese-characters.org/meaning/5/5353.html
+# source: http://zhongwen.com/d/168/x244.htm
+卓 匕 早
+
+# source: https://www.chise.org/est/view/character/%F0%A5%8F%AB
+𥏫 矢 昜
+
+# source: http://chinese-characters.org/meaning/7/76CA.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AF%71
+# XXX/TODO This is actually an edit, no definite syntax yet.
+益 水 皿
+
+# we have 日 𤴓 in decomp.csv
+是 日 正
+是 旦 止
+
+# source: http://chinese-characters.org/meaning/5/5C40.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%BD
+局 尺 口
+
+# source: personnal take
+黑 田 土 火
+
+# source: personnal take (unsure)
+#艮 日 𧘇
+# chise says charactere derives from one decomposed as 目, 匕
+
+# source personnal take
+文 亠 乂
+
+# source: to some degree, http://chinese-characters.org/meaning/7/7531.html
+#         and ancient forms.
+# source: personnal take
+由 丶 田
+
+# source: personnal take; unsure about the upper part,
+# but 肀 seems clear.
+#
+# http://zhongwen.com/cgi-bin/zipux.cgi?=%A8%C6
+# http://chinese-characters.org/meaning/4/4E8B.html
+# Both have a different opinion thought.
+#事 亠 口 肀
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%CE%BD
+# source: http://chinese-characters.org/meaning/5/5F56.html
+彖 彑 豕
+
+# source: http://zhongwen.com/d/u/xg1.htm
+# not sure about 厸 (http://zhongwen.com/d/u/xye.htm)
+𢇇 厸 丱
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%73
+# source: http://chinese-characters.org/meaning/5/5B58.html
+# source: we already have 才 has an element for 在's decomposition
+存 才 子
+
+# source: http://chinese-characters.org/meaning/7/7522.html
+產 文 厂 生
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B2%A3
+產 彥 生
+
+# source: https://ctext.org/dictionary.pl?if=en&char=%F0%A6%8D%8E
+# source: https://www.chise.org/est/view/character/%F0%A6%8D%8E
+𦍎 䒑 未
+
+# source: http://chinese-characters.org/meaning/9/9B3C.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B0%AD
+鬼 甶 儿 厶
+
+# source: http://chinese-characters.org/meaning/5/5807.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%D4%BB
+堇 黃 土
+
+# source: http://chinese-characters.org/meaning/9/968B.html
+隨 辶 隋
+
+# source: personnal take
+欠 ⺈ 人
+
+# source: personnal take (wm data seems wrong)
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B0%4B
+袁 𠮷 𧘇
+
+# source: personnal take
+亚 一 业
+
+# source: personnal take (wm data seems wrong)
+睘 罒 一 口 𧘇
+
+# wm data uses 力 instead of ⺈ (<=> 刀) but it seems to be a typo, e.g.
+# https://www.zdic.net/hans/%E7%B5%95
+# https://en.wiktionary.org/wiki/%E7%B5%95
+絕 糸 ⺈ 巴
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B3%CC
+# source: http://chinese-characters.org/meaning/6/6700.html
+# wm data uses 曰 instead of 冃
+最 冃 取
+
+# source: personnal take
+斤 厂 丅
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%C9%5F
+# source: http://chinese-characters.org/meaning/6/6BB3.html
+殳 𠘧 又
+
+# source: personnal take
+# This is a character that wm decomposes using a purely "new/simplified"
+# element, which can only be semantically incorrect [unless that character
+# actually exists somewhere].
+產 亠 乂 厂 生
+
+# source: http://chinese-characters.org/meaning/7/7522.html
+# this one already contains decomposition placement symbols.
+# 產 ⿱ 文 ⿸ 厂 生
+
+# source: https://en.wiktionary.org/wiki/%E5%88%B6
+# this one already contains decomposition placement symbols.
+# ⿰ ⿻ 牛 冂 刂
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%BE%C7
+# source: http://chinese-characters.org/meaning/5/5B78.html
+# 學 should contain 𦥑, not 臼
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%50
+# source: http://chinese-characters.org/meaning/5/540C.html
+同 𠔼 口
+
+# 盡 = 焄 + 皿 in current wm-decomp, while 㶳 exists

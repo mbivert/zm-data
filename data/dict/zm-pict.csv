@@ -1,0 +1,666 @@
+# Character visual explanation.
+#
+# TODO: having started to use accents instead of numbers on the UI,
+# some tones may be incorrect here.
+#
+# Same format as CC-CEDICT, besides us allowing empty lines.
+#
+# As we're interesting purely visual information, pinyins are
+# at best provided as indications, and often omitted within
+# descriptions.
+#
+# And for similar reason, as character's decomposition is
+# often richer with traditional Chinese characters, we mostly
+# ignore the correspondance with simplified characters.
+#
+# Personnal interpretations perhaps should be considered
+# as mnemonic rather than grounded in proper Chinese
+# character etymologycal research.
+#
+# As for dict2.csv, we mention direct sources.
+
+# source: http://zhongwen.com/d/164/x80.htm
+匕 匕 [bi3] /pictogram of a person turned around/
+
+# source: http://zhongwen.com/d/164/x238.htm
+止 止 [zhi3] /pictogram of a foot with protruding toes/
+
+# source: http://zhongwen.com/d/164/x83.htm
+又 又 [you4] /pictograph of a right hand/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%E0
+舟 舟 [zhou1] /pictograph of a dugout canoe/
+
+# source: http://zhongwen.com/d/u/xs8.htm
+𠘧 𠘧 [shu2] /pictograph of a small wing/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%C8
+午 午 [wu3] /pictogram of a pestle/
+
+# source: http://zhongwen.com/d/164/x111.htm
+寸 寸 [cun4] /pictogram of a hand with a dot representing the point of the wrist from where the pulse is taken; represent either a hand or law in composition/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%DA
+巴 巴 [ba1] /pictogram of a snake on its tail/
+
+# source: http://zhongwen.com/d/164/x120.htm
+# source: http://chinese-characters.org/meaning/5/5DF3.html
+巳 巳 [si4] /pictogram of a snake, or of a fetus/
+
+# source: http://chinese-characters.org/meaning/5/52F9.html
+勹 勹 [bao1] /pictogram of a man bending over to wrap something/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A8%AD
+身 身 [shen1] /pictograph of a human profile/
+
+# source: http://zhongwen.com/d/u/xg2.htm
+冎 冎 [gua3] /pictograph of a skull and vertebrae/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B0%A9
+骨 骨 [gu3] /skeleton and flesh (月 being a variation of 肉[rou4])/
+
+# source: http://zhongwen.com/d/166/x177.htm
+曲 曲 [qu1] /pictograph of wood turned into a cup shape/
+
+# source: http://zhongwen.com/d/168/x167.htm
+豆 豆 [dou4] /pictograph of a serving container/
+
+# source: https://en.wiktionary.org/wiki/%F0%A4%94%94
+# source: http://zhongwen.com/d/u/xl2.htm
+# source: personnal interpretation (second one)
+𤔔 𤔔 [luan4] /two hands disentangling a roll of threads/a hand above using threads to control a boxed "puppet" hand below/
+
+# source: http://zhongwen.com/d/u/xp2.htm
+# source: http://chinese-characters.org/meaning/5/590A.html (second one)
+攵 攵 [pu1] /hand (又[you4]) holding a stick (卜[bu3])/a man (人) dragging (𠂆)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%F1
+# source: http://chinese-characters.org/meaning/6/6538.html
+攸 攸 [you1] /hiker (person, 人) holding a stick (攵) to cross water (simplified as 丨)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%C3
+# meh.
+#岔 岔 [cha4] /dividing (分) on a mountain (山)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%BC~ (unused)
+憂 憂 [you1] /going through with thoughts weighting on one's heart/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%CD
+# source: http://chinese-characters.org/meaning/7/751F.html
+生 生 [sheng1] /a plant sprouting (屮) from the ground (土)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%ABC
+# source: http://chinese-characters.org/meaning/9/9752.html
+# source:  personnal additions (third & fourth entry)
+青 青 [qing1] /color of burning (月 as a deformation of 丹) vegetation (龶 as a variant of 豐)/color (丹) of nature (生)/color (月) of what is abundant (龶 as a variant of 豐)/moon color is a dull green; black (traditionaly made from soot or burnt vegetals) is a dull blue, vegetation obviously covers various shades of green/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6X
+合 合 [he2] /gathering, regrouping (亼 as a variant of 集) many mouths/
+
+# source: http://zhongwen.com/d/165/x102.htm
+卯 卯 [mao3] /opened door/graphically similar to 卬|卬 [ang2]/
+
+# source: http://zhongwen.com/d/u/xd2.htm
+# source: http://chinese-characters.org/meaning/6/61F7.html
+眔 眔 [da4] /catching with the eye/through 褱|褱 [huai2], bosom/
+
+# source: http://chinese-characters.org/meaning/6/6389.html
+掉 掉 [diao4] /drop something from above/
+
+# source: http://zhongwen.com/d/168/x244.htm
+# source: http://chinese-characters.org/meaning/5/5353.html
+卓 卓 [zhuo2] /to compare with the rising sun/to bow to the rising sun/
+
+# source: http://zhongwen.com/d/u/xl0.htm
+# also chinese-characters for the first one
+留 留 [liu2] /to be detained (丣) in a field (田)/to stop (卯) in a field (田)/
+卯 卯 [mao3] /barred door; the bar is missing in modern fonts/
+
+# source: http://zhongwen.com/d/167/x98.htm
+呆 呆 [dai] /baby wrapped in a blanket/
+
+# source: https://en.wikipedia.org/wiki/Bamboo_and_wooden_slips
+冊 册 [ce4] /bamboo slips strung together, ancient book "format"/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AA%CC
+耂 耂 [lao3] /ancient pictogram of grain or sugarcane stalk/
+
+# source: http://chinese-characters.org/meaning/7/725B.html
+牛 牛 [niu2] /pictogram of an ox/often symbolizes a thing in composition/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%F3
+# source: http://chinese-characters.org/meaning/4/4EF6.html
+件 件 [jian4] /a person dividing an ox/a person's thing (牛 being often used to symbolize a thing)/
+
+# source: http://zhongwen.com/d/u/xyn.htm
+# source:
+乚 乚 [yin3] /pictograph suggesting a curve or a corner/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AA%BD
+直 直 [zhi2] /ten (十) eyes (目) saw no concealment (乚)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%D0%E0
+# source: http://chinese-characters.org/meaning/5/5193.html
+冓 冓 [gou4] /pictogram of a house's framing/pictograph of a steelyard, by extension network, framework/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%AB
+# source: http://chinese-characters.org/meaning/4/4E95.html
+井 井 [jing3] /pictogram of a field splitted in lots with a well in the middle/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%ABD
+# source: http://chinese-characters.org/meaning/9/975E.html
+非 非 [fei1] /considered to be opposing wings from bottom half of 飛|飞 [fei1], therefore a representation of opposition/
+
+# source: http://chinese-characters.org/meaning/5/5E38.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B1`
+# source: personnal take
+常 常 [chang2] /cloth (巾) held high (尚); originally meant flag/someone (吊) whose head is wrapped (冖) by small things (小): an average, ordinary person/
+
+# source: http://chinese-characters.org/meaning/5/5C31.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B4N
+就 就 [jiu4] /special (尤) tall building (京)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%E7
+# source: http://chinese-characters.org/meaning/6/65A4.html
+斤 斤 [jin1] /pictograph of an ax/
+
+# source: http://chinese-characters.org/meaning/7/722D.html
+爭 爭 [zheng1] /archaic form shows a hand grabbing a kicking ox/
+
+# source: http://chinese-characters.org/meaning/4/4E2F.html
+丯 丯 [jie4] /pictograph of a stick with hash marks used as tallies/
+
+# source: personnal take
+# http://chinese-characters.org/images/1ancient/5BB3new.png
+害 害 [hai4] /ancient form looks like a whipped human back/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%E8
+# source: personnal take
+方 方 [fang1] /a knife under a piece of wood: pictograph of a plow/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%E7
+# source: http://chinese-characters.org/meaning/8/8863.html
+衣 衣 [yi1] /pictograph of clothes, sleeves as the top horizontal lines, folds below/
+
+# source: http://chinese-characters.org/meaning/5/5189.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%54
+# source: personnal take
+冉 冉 [ran3] /ancient form shows handling fur (毛)/the soil (土) becoming a field (田) and extending beyond; see 井[jing3], 冓[gou4], 講[jiang3] and 由[you2]/
+
+# source: http://zhongwen.com/d/u/xc4.htm
+# source: http://chinese-characters.org/meaning/7/7592.html
+# source: personnal take
+疒 疒 [ne4] /a person lying (一) on a wooden bed (爿)/being cold/blocked (冫) at home (广)/
+
+# source: http://zhongwen.com/d/165/x185.htm (http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%B9)
+# source: http://chinese-characters.org/meaning/6/65E6.html
+旦 旦 [dan4] /sun (日) above the horizon (一): dawn/
+
+# source: http://chinese-characters.org/meaning/6/662F.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AC%4F
+# source: personnal take
+是 是 [shi4] /what is righteous (正) under the light (日)/stopped (止) there (一) under the sun (日); the sun could represent time/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AA%76
+治 治 [zhi4] /spreading (水) happiness (台): to govern/fluidify (水) breathing (台): to treat (a disease)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%78
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%78
+# "Vivons heureux, vivons cachés", 厶 meaning private.
+台 台 [yi1] /ancient form shows a mouth (口) exhaling (已, now 厶): joy/
+
+# source: personnal take.
+限 限 [xian4] /blunted (艮) abundance (阝): limit/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%7D
+# source: http://chinese-characters.org/meaning/5/5F13.html
+弓 弓 [gong1] /originally pictograph of a bow; modern form only shows its string/
+
+# source: http://chinese-characters.org/meaning/5/5F37.html
+強 強 [qiang2] /an insect (虫) expanding greatly (弘): violence, strength, force/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%BD%D5
+# source: http://chinese-characters.org/meaning/8/8ABF.html
+調 調 [tiao2] /words (言) revolving (周): reconciliate, argument/
+
+# source: http://chinese-characters.org/meaning/5/5409.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%4E
+吉 吉 [ji2] /what comes out of a scholar (士)'s mouth (口) : luck bringing wisdom/
+
+# source: http://chinese-characters.org/meaning/5/5C40.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%BD
+局 局 [ju2] /speaking (口) about measure (尺)/
+
+# source: http://chinese-characters.org/meaning/9/9ED1.html
+# source: http://zhongwen.com/cgi-bin/zipu.cgi?b5=%b6%c2
+黑 黑 [hei1] /ancient forms show fire (炎) and chimney (囪): soot's color/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%C9%40
+# source: http://chinese-characters.org/meaning/4/4E42.html
+# source: personnal take: interestingly, visually represent lines
+# being groupped. See also 學.
+乂 乂 [yi4] /pictograph of cutting shears/cutting left and right/tie together/
+
+# source: personnal take
+# source: http://chinese-characters.org/meaning/6/6587.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%E5
+# /that which unify (under the same cover (亠)) people (乂): culture/
+文 文 [wen2] /that which covers (亠) what is written (interlocking lines, calligraphy, 乂)/in ancient form, a man with prominent torso, sometimes containing a heart: a cultivated man/
+
+# source: http://chinese-characters.org/meaning/5/5C3C.html
+# source: personnal take
+尼 尼 [ni2] /a corpse (尸) and originally an ideogram of a person (匕): captures both intimacy and the idea of obstructing/
+
+# source: http://zhongwen.com/d/164/x95.htm
+# source: http://chinese-characters.org/meaning/4/4E8E.html
+于 于 [yu2] /an alteration of the ancient form for breath (丂) spreading (一)/
+
+# source: personnal take
+宇 宇 [yu3] /air (于, 丂) covered (宀): room/that which covers, regroups (宀) what spreads, space (于): universe; see 宇宙 [yu3 zhou4]/
+
+# source: personnal take
+宙 宙 [zhou4] /that which covers (宀) causality, time (由): eternity; see 宇宙 [yu3 zhou4]/
+
+# source: http://chinese-characters.org/meaning/7/7531.html
+# source: personnal take
+由 由 [you2] /a seed, a small thing (丶) comes out of a field, basket (田); or the seed (丶) as the origin of a field (田): causality/
+
+# source: personnal take
+理 理 [li3] /that which governs (王) villages (里) : to manage, to organize/that which (visually) predominates (王) from a distance (里): texture, grain/
+
+# source: http://chinese-characters.org/meaning/5/53EC.html
+# source: personnal take; conforted by e.g. 古, 欠, 否
+召 召 [zhao4] /ancients form represented an offerand/to remove (刀) from one's mouth (口): sacrifice; see also 欠/to speak (口) with intransigence/authority (刀): imperial decree/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AC%4C
+# source: http://chinese-characters.org/meaning/6/662D.html
+昭 昭 [zhao1] /summoning (召) light (日): showing clearly, with clarity, intelligibility/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B7%D3
+# source: http://chinese-characters.org/meaning/7/7167.html
+照 照 [zhao4] /what is made visible (昭) through a source of light (火): to reflect, to shine/
+
+# source: http://chinese-characters.org/meaning/6/6B79.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%EF
+歹 歹 [dai3] /pictograph of a fragment of bone/
+
+# source: http://chinese-characters.org/meaning/5/5915.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%69
+夕 夕 [xi1] /ancient form is the same as 月 (moon): dusk/crescent of moon (月)/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%BA
+# source: http://chinese-characters.org/meaning/6/6B7B.html
+# source: personnal take
+死 死 [si3] /crushed bones (歹) of a person (匕); additionaly, the person could be said to be under the earth (一) (see 旦 where 一 means horizon)/
+
+# source: http://zhongwen.com/d/164/x126.htm
+# http://chinese-characters.org/meaning/6/624D.html has a different
+# opinion, but the selected one makes sense for 在 and 存
+才 才 [cai2] /pictograph of a sprouting plant; see also 屮/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%73
+# source: http://chinese-characters.org/meaning/5/5B58.html
+存 存 [cun2] /children (子) sprouting (才): to exists, to survive/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%62
+# source: http://chinese-characters.org/meaning/5/5728.html
+# source: personnal takes inspired by two previous sources
+在 在 [zai4] /sprouting (才) at that point in space (土): to be located at/
+
+# source: http://chinese-characters.org/meaning/5/53B6.html
+厶 厶 [si1] /pictograph of a silkworm in its cocoon/small thing/
+
+# source: http://chinese-characters.org/meaning/8/800C.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%D3
+而 而 [er2] /pictograph of a beard, originally meant whiskers/
+
+# source: http://chinese-characters.org/meaning/7/7F8C.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AA%CA
+羌 羌 [qiang1] /sheep (羊) herding people (儿): an ancient tribe/
+
+# source: http://zhongwen.com/d/u/xf5.htm
+# source: http://chinese-characters.org/meaning/7/7536.html
+# source: personnal take
+甶 甶 [fu2] /pictograph of a demon head/the dot (⼂) may represent a horn/
+
+# source: http://chinese-characters.org/meaning/9/9B3C.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B0%AD
+鬼 鬼 [gui3] /demon head (甶) on two legs (儿); 厶 could represent either selfishness or ethereality (ghost)/
+
+# source: http://chinese-characters.org/meaning/5/5E7F.html
+# source: http://zhongwen.com/d/u/xyc.htm
+广 广 [yan3] /a shelter (宀) with an opened side/half of a large room/room formed from the side of a cliff/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B3%C2
+# source: http://chinese-characters.org/meaning/9/9EBB.html
+# NOTE: interestingly, the english expression # "to have pins and
+# needles", which corresponds to a meaning of 麻,
+# matches to some degree the decomposition.
+麻 麻 [ma2] /herbs, hemp (林) drying in a room (广): hemp, flax, jute, sesame/interestingly, quite litteraly "to have pins and needles (林)"/
+
+# http://chinese-characters.org/meaning/9/9B54.html
+# http://zhongwen.com/cgi-bin/zipux.cgi?=%C5%5D
+# Both considers 麻 not to be semantical
+# source: personnal takes
+魔 魔 [mo2] /demon (鬼) growing (林) hidden (广)/numbing, tingling (麻) demon (鬼)/collection (林) of demons (鬼) grouped in the same place (广)/
+
+# source: http://chinese-characters.org/meaning/9/96B9.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AB%41
+隹 隹 [zhui1] /pictograph of a short-tailed bird; see also 鳥/ancient form shows some kind of feathered animal/
+
+# source: http://chinese-characters.org/meaning/9/9CE5.html
+鳥 鳥 [diao3] /pictograpf of a long-tailed bird; see also 隹/ancient form clearly depicts a bird/
+
+# source: http://chinese-characters.org/meaning/5/5807.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%D4%BB
+堇 堇 [jin3] /yellow (黃) earth (土): clay/
+
+# source: http://zhongwen.com/d/182/x192.htm
+# source: http://chinese-characters.org/meaning/9/9EC3.html
+# source: personnal take
+黃 黃 [huang2] /the intense (廿) light emitted (火) of a field (田): yellow, yellow-brown/
+
+# source: http://chinese-characters.org/meaning/7/7F6A.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B8%6F
+# source: personnal take
+罪 罪 [zui4] /catching (罒), perhaps even noticing (目) something wrong (非): crime, blame, guilt; note the play on 非 meaning opposition and the turning around of 罒 to 目/deprived (罒) of freedom (非, representing wings): the result of a crime, the impact of guilt or blame/
+
+# source: http://chinese-characters.org/meaning/4/4EAC.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A8%CA
+# source: personnal take
+京 京 [jing1] /ancient forms is  mostly 高 (tall building) with 丨 instead of the bottom 口, perhaps reinforcing the pillar role of the capital/what covers (亠) an entrance (口) for comparatively small (小) people: capital/
+
+# source: http://chinese-characters.org/meaning/6/6C0F.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%F3
+氏 氏 [shi4] /pictograph of a plant (乇)'s roots/
+
+# source: personnal take (ancient forms don't reflect the deformation from 龶 to 主)
+債 債 [zhai4] /being (亻) owned (deforming 龶 to 主) by money (貝): debt/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%E1
+# source: http://chinese-characters.org/meaning/6/6236.html
+# source: personnal take
+戶 户 [hu4] /ancient form shows a door leaf, half of 門/what is above (一) and individual (户): family, household/
+
+# source: personnal take
+戸 戸 [hu4] /as for 户: what is above (一) and individual (户): family, household/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%48
+# source: http://chinese-characters.org/meaning/4/4EE5.html
+# source: personnal take
+以 以 [yi3] /that which causes (人) completion (已, appearing in ancient forms): by means of, in order to/causal relation between breathing (已, cf. 台's ancient form) and human (人) existence/see also 允/
+
+# source: http://zhongwen.com/d/u/xz5.htm
+# source: http://chinese-characters.org/meaning/2/20087.html
+𠂇 𠂇 [zuo3] /pictograph of the left hand; obvious in ancient form, especially by comparison with right hand (又)/
+
+# source: http://chinese-characters.org/meaning/9/9693.html
+# source: http://zhongwen.com/d/224/x210.htm
+# source: personnal take, valid from traditional thinking point
+# of view I suppose.
+隓 隓 [duo4] /those who help (左) undermine a wall (阜, 阝)/abundance (阝) of communism(!), unorthodoxy, homosexuality(!), opposition (左): destruction, fall/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%76
+# source: http://chinese-characters.org/meaning/5/5DF1.html
+己 己 [ji3] /pictograph of threads in a loom/
+
+# source: http://chinese-characters.org/meaning/6/6539.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%EF
+# source: personnal take
+改 改 [gai3] /acting upon (攵) oneself (己): to change, alter/a man's hand (攵) weaving threads (己): altering the threads of destiny: changing, altering/
+
+# source: http://chinese-characters.org/meaning/7/7AF9.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A6%CB
+# source: personnal take
+亇 亇 [ge4] /bamboo shoot; see also 亇 and 竹/
+个 个 [ge4] /bamboo shoot; see also 亇 and 竹/
+竹 竹 [zhu2] /bamboo shoots/bamboo leaf clusters/may represent ancient bamboo slips (简牍)/
+
+# source: personnal take; conforted by e.g. 古, 召, 否
+欠 欠 [qian4] /what has been removed (⺈, ie. 刀) to someone (人): deficiency, lack; see also 召/
+
+# source: http://chinese-characters.org/meaning/5/58EC.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%D0
+壬 壬 [ren2] /ancient forms is visually close to work (工) with a line in the middle (一): burden/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%F4
+# source: http://chinese-characters.org/meaning/4/4EFB.html
+任 任 [ren4] /someone (亻, 人) taking care of a task (壬): to assign, to appoint/
+
+# source: http://chinese-characters.org/meaning/9/97F3.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AD%B5
+# source: personnal take
+音 音 [yin1] /ancient form shows talking (言) with a line (一) in the mouth (口)/what sets up (立) on time (日): rythm, hence music/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B7%4E
+# source: http://chinese-characters.org/meaning/6/610F.html
+意 意 [yi4] /sound (音) of the heart (心): thoughts, desires, intentions/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%6A
+# source: http://chinese-characters.org/meaning/5/53E4.html
+古 古 [gu3] /told by ten (十) mouths (口): ancient/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B0%B5
+# source: http://chinese-characters.org/meaning/5/505A.html
+做 做 [zuo4] /a person (亻) causing (故) something: doing, making/
+
+# source: http://chinese-characters.org/meaning/6/6545.html
+# source: http://zhongwen.com/d/172/x71.htm
+故 故 [gu4] /what precedes (古) an action (攵): cause/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%5F
+# source: http://chinese-characters.org/meaning/5/5426.html
+否 否 [fou3] /mouth (口), negation (不): denying/
+
+# source: http://chinese-characters.org/meaning/5/5247.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AB%68
+則 則 [ze2] /the separation (刂) of money (貝): standard, norm, grade/
+
+# source: http://chinese-characters.org/meaning/7/793A.html
+# source: personnal take
+示 示 [shi4] /In ancient forms, the above 二 was a form of today's 上 (to climb up, etc.): heavenly omens/keeping 二 as 上: climbing above what is small (小): reveal, show/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A8%53
+# source: http://chinese-characters.org/meaning/6/6C92.html
+沒 沒 [mo4] /Ancient forms shows 回 (vortex) instead of 刀: reaching (又) a vortex into water (氵): to die; the blade still keeps some of that interpretation/
+
+# source: http://chinese-characters.org/meaning/6/6771.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AAF
+東 東 [dong1] /sun (日) shining through a tree (木): east/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%63
+# source: http://chinese-characters.org/meaning/5/52FA.html
+勺 勺 [shao1] /originally, pictograph of a spoon (勹); the dot (丶) representing its content/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%E2
+# source: http://chinese-characters.org/meaning/6/628A.html
+把 把 [ba3] /a hand (扌) holding a snake (巴): to hold, to contain, to grasp/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%45
+# source: http://chinese-characters.org/meaning/4/4F59.html
+# source: personnal take
+余 余 [yu2] /more visible on ancient forms: something rising (屮) and being separated (八) from the group (亼): I, surplus/individual (亼) being separated (八) from something wide (于, as a archaic variant of 迂; see also 宇, 宇宙)/
+
+# source: personnal take
+除 除 [chu2] /abundance (阝) of things being separated from the whole (余): (progressive) elimination/
+
+# source: http://zhongwen.com/d/171/x216.htm
+# source: http://chinese-characters.org/meaning/5/5EFA.html
+# source: personnal take (link to 文)
+建 建 [jian4] /written (聿) rules to live through (廴): established, found; see also 文 (language, culture)/
+
+# source: personnal take
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%B0%B7
+健 健 [jian4] /someone (亻) living (廴) according to written (聿) rules: healthy, strenghten/someone (亻) with good posture (建, established, set up): healthy/
+
+# source: personnal take
+得 得 [de2] /a small thing (丶) taken from the whole (于, as a archaic variant of 迂; see also 宇, 宇宙) at a given instant (日), grabbed by someone (彳): to own/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%C2
+# source: http://chinese-characters.org/meaning/6/6C10.html
+氐 氐 [di3] /a plant's roots (氏) on the ground (一): foundation/
+
+# source: personnal take; see also:
+# http://chinese-characters.org/meaning/5/5E95.html
+# http://zhongwen.com/cgi-bin/zipux.cgi?=%A9%B3
+底 底 [di3] /a plant (氏) growing on some soil (一) located in a cavity (广): base/
+
+# source: personnal take
+移 移 [yi2] /accumulating lots (多) of little things (禾): to change; reinforced by the little things being seeds/
+
+# source: http://chinese-characters.org/meaning/4/4E26.html
+並 並 [bing4] /ancient form shows two men standing side by side: to combine/
+
+# source: personnal take
+# source: http://chinese-characters.org/meaning/6/60C5.html
+情 情 [qing2] /the heart (忄) of young people (青): passion/that which is natural (青, as in color (丹) of nature (生)) to the heart (忄): emotions/
+
+# source: personnal take
+清 清 [qing1] /young people things (青) washed away (氵): quiet, clear; see also 情/
+
+# source: personnal take
+達 達 [da2] /something (羊) having walked (辶) to a location (土): to arrive/
+
+# source: personnal take
+至 至 [zhi4] /去 (to go) upside down: to arrive/
+
+# source: personnal take
+去 去 [qu4] /至 (to arrive) upside down: to go/
+
+# source: http://chinese-characters.org/meaning/7/77F3.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%DB
+石 石 [shi2] /a piece (口) of a cliff (厂 visible on seal scripts, now deformed): a stone/
+
+# source: personnal take
+皮 皮 [pi2] /sense of touch (又) perceived by small bits (丨) going outside [of the body] (厂): fur/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A5%58
+# source: http://chinese-characters.org/meaning/5/51FA.html (decomposition)
+# source: personnal take
+出 出 [chu1] /sprouting plant (屮) in a receptacle (凵): to come out/
+
+# source: personnal take
+許 許 [xu3] /putting one's mark (午, pestle, hence seal?) on some words (言): to permit, to praise/
+
+# source: http://chinese-characters.org/meaning/6/6839.html
+根 根 [gen1] /the blunt (艮) parts of a tree (木): roots/
+
+# well, well, well; see also 育 (to have children)
+# 胎 胎 [tai1] /a small bit (厶) of meat (月) in the womb (口): fœtus/
+# 胎 胎 [tai1] /a regular (月) source of joy (台): fœtus/
+# 胎 胎 [tai1] /joyful (台) bit of flesh (月): fœtus/
+# 胎 胎 [tai1] /bit of flesh (月) than only exhale (厶) and eats (口): fœtus/
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AD%4C
+胎 胎 [tai1] /flesh (月) born from joy (台): fœtus/
+
+# source: http://zhongwen.com/d/u/xk4.htm
+𠀐 𠀐 [kui4] /pictograph of a basket/
+
+# source: personnal take
+貴 貴 [gui4] /to be (中) on top of (一) a pile of money (貝): noble/a basket (𠀐) full of money (貝): noble/
+
+# source: personnal take
+所 所 [suo3] /a home (戸) under (丅) a cliff (厂): a place/
+
+# source: http://chinese-characters.org/meaning/6/6BB3.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%C9%5F
+殳 殳 [shu1] /a hand (又) moving (𠘧): weapon (martial art)/
+
+# source: http://chinese-characters.org/meaning/5/5B5D.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A7%B5
+# source: personnal take; external sources are narrower
+孝 孝 [xiao4] /relationship between an elderly (耂) and a child (子): filial piety/
+
+# ancient forms notes:
+# 	http://zhongwen.com/cgi-bin/zipux.cgi?=%B1%D0
+# 	http://chinese-characters.org/meaning/6/6559.html
+# source: personnal take
+教 教 [jiao4] /the culture (攵, as a variant of 文) passed down from elderly (耂) to children (子): religion/
+
+# source: http://chinese-characters.org/meaning/8/89BA.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%C4%B1
+# source: personnal take (augmenting previous sources)
+覺 覺 [jue2] /to perceive (見) knowledge (𦥯): to think, to be aware, to sleep (metaphorical dreams)/
+
+# source: http://chinese-characters.org/meaning/4/4E29.html
+# source: http://zhongwen.com/d/u/xj6.htm
+丩 丩 [jiu1] /pictograph of entangled vine/
+
+# source: http://chinese-characters.org/meaning/5/53EB.html
+叫 叫 [jiao4] /to connect (丩) with the mouth (口): to order, to ask, to call/
+
+# http://chinese-characters.org/meaning/6/6D89.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AF%41
+# source: personnal take
+涉 涉 [she4] /to walk (步) into water (氵): litteral definition; can also be interpreted metaphorically: to wade, to experience/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A4%CE
+# source: http://chinese-characters.org/meaning/5/53CA.html
+及 及 [ji2] /a hand (又) grabbing a person (人): to reach/a person (人) extending his hand (又): to reach/
+
+# source: http://zhongwen.com/d/u/xje.htm
+# source: http://chinese-characters.org/meaning/5/5369.html
+卩 卩 [jie2] /ancient form shows a pictograph of a kneeling person/
+
+# source: http://chinese-characters.org/meaning/5/547D.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A9%52
+# likely, fate/life can be infered
+命 命 [ming4] /verbal (口) decree (令, more visible on ancient forms): an order/
+
+# source: personnal take
+叩 叩 [kou4] /a kneeling (卩) mouth (口): to enquire, to bow/
+
+# source: personnal take
+空 空 [kong1] /that (宀) which is created (工) through separation (八) : empty/the force (工) that creates a cavity (穴): to empty/
+
+# source: personnal take
+產 產 [chan3] /quietly (亠) cutting (乂) life (生) from its source (厂): to give birth/
+
+# source: http://chinese-characters.org/meaning/5/5236.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%A8%EE
+制 制 [zhi4] /ancient forms shows a tree instead of of the first component: trimming a large tree (未) with a knife (刀): to regulate/
+
+# source: personnal take
+# source: http://chinese-characters.org/meaning/9/91CD.html
+重 重 [chong2] /thousand (千) neighborhoods (里): repetition/originally a pictograph of a weighing machine/
+
+# source: http://chinese-characters.org/meaning/2/2123C.html
+# source: http://zhongwen.com/d/u/xt4.htm (also as person like scholar)
+𡈼 𡈼 [ting3] /a person (人) standing on the ground (土): to stand upright/
+
+# source: personnal take
+物 物 [wu4] /that which is not (勿) alive (牜): matter, object/
+
+# source: personnal take
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%BB%A1
+# source: http://chinese-characters.org/meaning/8/8AAA.html
+說 说 [shui4] /someone (儿) uttering (口) sharp, convincing (八) words (言): to persuade, to scold/someone (儿) speaking (口, 言) dialecticly (八): to convince/joyful (兌, as an old variant of 悅) words (言): to speak, to explain/to speak sweet (兌) or bitter (言's ancient form contains 䇂 over 口): to persuade/
+
+# source: personnal take
+# source: http://chinese-characters.org/meaning/5/56FA.html
+固 固 [gu4] /preserved (囗) simple, ancient things (古): solid, strong/ancient (古) enclosure (囗): solid, strong/
+
+# source: personnal take.
+𡰪 𡰪 [zhuo2] /the body's (尸) mouth (口): fat/body's (尸) lower openings (口): vulva, anus/
+
+# source: personnal take
+辛 辛 [xin1] /establishing (立) perfection (十): hard, laborious/regrouping (亠) sheeps (羊): hard, laborious/
+
+# source: personnal take (think, "nothing exists but now" kind of things).
+現 現 [xian4] /that which governs (王) men's sight (見): now, present/
+
+# source: http://chinese-characters.org/meaning/5/539F.html
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AD%EC
+原 原 [yuan2] /spring(s) (泉, altered) coming out of a cliff (厂): source, origin/
+
+# source: https://en.wiktionary.org/wiki/%E5%86%8A#Chinese
+# source: http://chinese-characters.org/meaning/5/518A.html
+𠕁 𠕁 [ce4] /pictogram of bamboo slips strung together: a book/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AB%F3
+# source: http://chinese-characters.org/meaning/6/6241.html
+# source: personnal take
+扁 扁 [bian3] /bamboo tablet (𠕁) on a door (戸 as a variant of 戶): to inscribe on the door/bamboo strips (𠕁) hitting (一) someone's body (尸): to beat/
+
+# source: personnal take
+時 時 [shi2] /infinitesimal (寸) movements of the earth (土) over the sun (日): time/

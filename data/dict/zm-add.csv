@@ -1,0 +1,908 @@
+# Format is similar to CC-CEDICT.
+#
+# According to them, such entries are mostly useless for their
+# purposes, which is to provide a dictionary for modern Chinese
+# usage, thus the need for us to maintain a patch instead of
+# submitting those entries.
+#
+# Empty lines are added for clarity.
+
+# source: Validated by a Chinese speaker
++𤴓 𤴓 [zhen2] /variant of 正 [zheng4]/right, correct/
+
+# source: https://en.wiktionary.org/wiki/%E9%98%9D
+# source: https://en.wiktionary.org/wiki/%E9%82%91
+# source: https://en.wiktionary.org/wiki/%E9%98%9C
+# source: Validated by a Chinese speaker
++阝 阝 [fu4] /abundant/mound/variant of 阜 [fu4] when used as left radical/
++阝 阝 [yi4] /city/village/capital/state/country/district/town/area/variant of 邑|邑 [yi4] when used as right radical/
+-邑 邑 [yi4] /city/village/
++邑 邑 [yi4] /city/village/capital/state/country/district/town/area/
+
+# source: https://en.wiktionary.org/wiki/%E6%94%B5
+# source: https://en.wiktionary.org/wiki/%E6%96%87
+# source: https://en.wiktionary.org/wiki/%E6%94%B4
+# source: Validated by a Chinese speaker
++攵 攵 [pu1] /radical, to hit lightly/to tap/variant of 攴 [pu1]/
++攵 攵 [wen2] /pattern/essay/variant of 文 [wen2]/document/article/literacy/reading/language/refined/
+
+# source: https://en.wiktionary.org/wiki/%E2%BA%88
+# source: Validated by a Chinese speaker
++⺈ ⺈ [dao1] /knife/variant of 刀 [dao1]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%82%87
+# source: https://www.zdic.net/hans/%F0%A0%82%87
+# source: https://en.wiktionary.org/wiki/%E5%B7%A6
+# source: http://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A01151-011
+# source: https://dict.variants.moe.edu.tw/variants/rbt/word_attribute.rbt?educode=A01842-001
+# source: Validated/completed by Chinese speaker
++𠂇 𠂇 [zuo3] /variant of 左 [zuo3]/left/east/wrong/a left hand/
++𠂇 𠂇 [you3] /variant of 有 [you3]/to have/to possess/there is/there exists/
+-左 左 [zuo3] /left/the Left (politics)/east/unorthodox/queer/wrong/differing/opposite/variant of 佐[zuo3]/
++左 左 [zuo3] /left/the Left (politics)/east/unorthodox/queer/wrong/differing/opposite/variant of 佐[zuo3]/(archaic) inferior position/different/divided/inconsistent/erroneously/to assist/
+
+# source: https://en.wiktionary.org/wiki/%E8%80%82
+# source: Validated by Chinese speaker
++耂 耂 [lao3] /venerable/old man/radical form of 老 [lao3]/
+
+# source: https://en.wiktionary.org/wiki/%E4%8F%8D
+# source: https://en.wiktionary.org/wiki/%E8%82%99
+# source: Validated by Chinese speaker
++䏍 䏍 [yuan4] /small worm/empty/twist/to surround/variant of 肙[yuan4]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%82%89
+# source: https://commons.wikimedia.org/wiki/Commons:Chinese_characters_decomposition which decomposes 族 (zu2) into 㫃 and 矢
+# source: Validated by Chinese speaker
++𠂉 𠂉 [xx5] /person radical, similar to 亻, cf人 [ren2]/
+
+# source: https://zh.m.wiktionary.org/zh-hans/%E5%86%8E
+# source: Validated by Chinese speaker
++冎 冎 [gua3] /to remove flesh from bones/cut meat from  the  bone/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%AB%94
+# source: Validated by Chinese speaker
++𠫔 𠫔 [gong1] /upper arm/assistant/variant of 肱 [gong1]/
+
+# source: https://en.wiktionary.org/wiki/%E9%BE%B0
+# source: https://www.zdic.net/hant/%E9%BE%B0
+# source: Validated by Chinese speaker
++龰 龰 [zou3] /to stop/variant of 止 [zhi3]/
+
+# source: https://www.zdic.net/hans/%F0%A6%A5%AF
+# source: Validated by Chinese speaker
++𦥯 𦥯 [xue2] /learning/school/knowledge/to learn/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%AE%B7
+# source: https://en.wiktionary.org/wiki/%E5%90%89
+# source: Validated by Chinese speaker
++𠮷 𠮷 [ji2] /auspicious/good/lucky/variant of 吉[ji2]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A6%8D%8C
+# source: Validated by Chinese speaker
++𦍌 𦍌 [yang2] /radical form of 羊/goat/sheep/
+
+# source: https://zh.wiktionary.org/zh-hant/%E4%92%91
+# source: Validated by Chinese speaker
++䒑 䒑 [cao3] /straw/herbs/weeds/
+
+# source: https://www.zdic.net/hans/%E7%BE%95
+# source: https://en.wiktionary.org/wiki/%E7%BE%95
+# source: Validated by Chinese speaker
++羕 羕 [yang4] /flowing water radical/
+
+# source: https://baike.baidu.com/item/%E7%89%9C
+# source: https://www.zdic.net/hans/%E7%89%9C
+# source: Validated by Chinese speaker
++牜 牜 [niu2] /bull, ox, cow/variant of 牛[niu2]/
+
+# source: https://en.wiktionary.org/wiki/%E7%A4%BB
+# source: Validated by Chinese speaker
++礻 礻 [shi4] /left radical form of 示 [shi4]/to show/to reveal/
+
+# source: https://baike.baidu.com/item/%E8%82%80
+# source: https://www.zdic.net/hans/%E8%82%80
+# source: Validated by Chinese speaker
++肀 肀 [yu4] /pen, radical number 129/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%AE%9B
+# source: https://en.wiktionary.org/wiki/%E6%97%A8
++𠮛 𠮛 [zhi3] /delicious/fine/variant of 旨[zhi3]/
+
+# source: Validated by Chinese speaker
+-旨 旨 [zhi3] /imperial decree/purport/aim/purpose/
++旨 旨 [zhi3] /imperial decree/purport/aim/purpose/delicious/fine/delicious food/
+
+# source: https://en.m.wiktionary.org/wiki/%E3%93%81
+# source: Validated by Chinese speaker
+# (NOTE: those really are two distincts unicode characters)
++㓁 㓁 [wang3] /net/net-like/ variant of 罒[wang3]/
++⺳ ⺳ [wang3] /net/net-like/ variant of 罒[wang3]/
+
+# source: https://baike.baidu.com/item/%E7%BD%99/7271576
+# source: https://www.zdic.net/hans/%E7%BD%99
++罙 罙 [shen1] /deep/ancient/variant of 冞[mi2]/
+
+# source: https://zh.m.wiktionary.org/zh-hans/%F0%A6%8D%92
+# source: https://en.wiktionary.org/wiki/%F0%A6%8D%92
++𦍒 𦍒 [ta2] /sheep/small lamb/variant of 羍[da2]/
+
+# source: https://en.wikipedia.org/wiki/Radical_105
+# source: Validated by a Chinese speaker
+-癶 癶 [bo1] /Kangxi radical 105, known as 登字頭|登字头[deng1 zi4 tou2]/
++癶 癶 [bo1] /Kangxi radical 105, known as 登字頭|登字头[deng1 zi4 tou2]/footsteps/legs/
+
+# source: https://en.wikipedia.org/wiki/Radical_13
+# source: Validated by a Chinese speaker
+# (NOTE: no real definition in original)
+-冂 冂 [jiong1] /radical in Chinese characters (Kangxi radical 13), occurring in 用[yong4], 同[tong2], 網|网[wang3] etc, referred to as 同字框[tong2 zi4 kuang4]/
++冂 冂 [jiong1] /radical in Chinese characters (Kangxi radical 13), occurring in 用[yong4], 同[tong2], 網|网[wang3] etc, referred to as 同字框[tong2 zi4 kuang4]/upside-down box/wide/
+
+# source: https://en.wiktionary.org/wiki/%E5%92%85
+# source: Validated by a Chinese speaker
+# clearer definition (~taste)
+-咅 咅 [pou3] /pooh/pah/bah/(today used as a phonetic component in 部[bu4], 倍[bei4], 培[pei2], 剖[pou1] etc)/
++咅 咅 [pou3] /to spit out/pooh/pah/bah/(today used as a phonetic component in 部[bu4], 倍[bei4], 培[pei2], 剖[pou1] etc)/
+
+# source: https://en.wiktionary.org/wiki/%E4%B8%A8
+# source: Validated by a Chinese speaker
+-丨 丨 [gun3] /radical in Chinese characters (Kangxi radical 2)/
++丨 丨 [gun3] /radical in Chinese characters (Kangxi radical 2)/to be through up and down/
+
+# source: https://en.wiktionary.org/wiki/%E6%96%A4
+# source: Validated by a Chinese speaker
+-斤 斤 [jin1] /catty/(PRC) weight equal to 500 g/(Tw) weight equal to 600 g/(HK, Malaysia, Singapore) slightly over 604 g/
++斤 斤 [jin1] /catty/(PRC) weight equal to 500 g/(Tw) weight equal to 600 g/(HK, Malaysia, Singapore) slightly over 604 g/axe/ax/keen/shrewd/
+
+# source: https://en.wiktionary.org/wiki/%E7%9C%94
+# source: Validated by a Chinese speaker
++眔 眔 [da4] /to wink/to glance/to squint/
+
+# source: https://en.wiktionary.org/wiki/%E3%87%8F
+# source: Validated by a Chinese speaker
++㇏ ㇏ [na4] /捺 (right-falling) Chinese calligraphy stroke/
+
+# source: https://en.wiktionary.org/wiki/%F0%A1%B0%AA
+# source: https://en.wiktionary.org/wiki/%E4%90%81
+# source: https://en.wiktionary.org/wiki/%F0%A1%B1%82
+# source: Validated by a Chinese speaker
++𡰪 𡰪 [tun2] /variant of 𡱂|𡱂 [tun2]/
++𡰪 𡰪 [zhuo2] /(archaic) vulva/the buttocks/rump/fat/plump/anus/one of the seven constellations/variant of 䐁/
++䐁 䐁 [zhuo2] /(archaic) vulva/the buttocks/rump/fat/plump/anus/one of the seven constellations/
+
+# source: https://en.wikipedia.org/wiki/Radical_80
+# source: Validated by a Chinese speaker
+# we have already: 毌 毌 [guan4] /archaic variant of 貫|贯[guan4]/
++毌 毌 [wu2] /mother/do not/
+
+# source: https://en.wiktionary.org/wiki/%E6%9C%AE
+# source: https://en.wiktionary.org/wiki/%E7%A7%AB
+# source: Validated by a Chinese speaker
++朮 朮 [shu2] /variant of 秫/glutinous millet/
+
+# source: https://en.wiktionary.org/wiki/%E4%9C%8C
+# source: Validated by a Chinese speaker
++䜌 䜌 [luan2] /chaotic/orderly/continuous/
+
+# source: https://en.wiktionary.org/wiki/%E5%A9%81
+# source: Validated by a Chinese speaker
+-婁 娄 [Lou2] /surname Lou/one of the 28 lunar mansions in Chinese astronomy/
++婁 娄 [Lou2] /surname Lou/one of the 28 lunar mansions in Chinese astronomy/to wear/
+
+# source: https://en.wiktionary.org/wiki/%E6%97%B2
+# source: https://www.zdic.net/hans/%E6%97%B2
+# source: Validated by a Chinese speaker
++旲 旲 [tai2] /(archaic) daylight, sunlight/
++旲 旲 [ying3] /(archaic) big, great, large, vast, high/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%82%86
+# source: Validated by a Chinese speaker
++𠂆 𠂆 [yi4] /to drag/
+
+# source: https://www.zdic.net/hans/%E4%BA%A6
+# source: https://en.wiktionary.org/wiki/%E4%BA%A6
+# source: Validated by a Chinese speaker
+-亦 亦 [yi4] /also/
++亦 亦 [yi4] /also/too/likewise/only/already/although/
+
+# source: https://zh.wiktionary.org/zh-hans/%E8%9C%80
+# source: https://en.wiktionary.org/wiki/%E8%9C%80
+# source: Validated by a Chinese speaker
+-蜀 蜀 [Shu3] /short name for Sichuan 四川[Si4 chuan1] province/one of the Three Kingdoms 三國|三国[San1 guo2] after the Han dynasty, also called 蜀漢|蜀汉[Shu3 Han4], situated around what is now Sichuan province/
++蜀 蜀 [Shu3] /short name for Sichuan 四川[Si4 chuan1] province/one of the Three Kingdoms 三國|三国[San1 guo2] after the Han dynasty, also called 蜀漢|蜀汉[Shu3 Han4], situated around what is now Sichuan province/one/each/every/variant of 一[yi1]/
+
+# source: https://en.wiktionary.org/wiki/%E5%A6%82
+# source: https://www.zdic.net/hans/%E5%A6%82
+# source: Validated/augmented by a Chinese speaker
+-如 如 [ru2] /as/as if/such as/
++如 如 [ru2] /as/as if/such as/to comply with/to agree with/for example/to fit/if/supposing/to go to/to be as good as/for instance/to be like/
+
+# source: https://en.wiktionary.org/wiki/%E4%A7%B9
+# source: https://en.wiktionary.org/wiki/%E9%B7%B9
+# source: https://www.zdic.net/hans/%E4%A7%B9
+# source: Validated by a Chinese speaker
++䧹 䧹 [ying1] /variant of 鷹|鹰 [ying1]/eagle/falcon/hawk/
+
+# source: https://en.wiktionary.org/wiki/%E5%80%A0
+# source: https://www.zdic.net/hans/%E5%80%A0
+# source: Validated by a Chinese speaker
+# not sure if hui1 or sui1 / how to indicate pinyin variation
++倠 倠[hui1] /(archaic) ugly/
+
+# source: https://en.wiktionary.org/wiki/%E9%AA%A8
+# source: https://www.zdic.net/hans/%E9%AA%A8
+# source: Validated by a Chinese speaker
+-骨 骨 [gu3] /bone/
++骨 骨 [gu3] /bone/skeleton/framework/moral character/
+
+# source: https://www.zdic.net/hans/%E5%8D%81
+# source: https://en.wiktionary.org/wiki/%E5%8D%81
+# source: Validated by a Chinese speaker
+-十 十 [shi2] /ten/10/
++十 十 [shi2] /ten/10/complete/perfect/utmost/topmost/
+
+# source: https://www.zdic.net/hans/%E5%85%AB
+# source: https://en.wiktionary.org/wiki/%E5%85%AB
+# source: http://zhongwen.com/d/164/x75.htm
+# source: Validated by a Chinese speaker
+-八 八 [ba1] /eight/8/
++八 八 [ba1] /eight/8/all around/all sides/many/numerous/ideogram representing division/
+
+# source: https://www.zdic.net/hans/%E8%A4%B1
+# source: https://en.wiktionary.org/wiki/%E8%A4%B1
+# source: Validated by a Chinese speaker
+-褱 褱 [huai2] /to carry in the bosom or the sleeve/to wrap, to conceal/
++褱 褱 [huai2] /to carry in the bosom or the sleeve/to wrap, to conceal/variant of 懷怀 [huai2]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%AC%9D
+# source: https://www.zdic.net/hans/%F0%A0%AC%9D
+# source: Validated by a Chinese speaker
++𠬝 𠬝 [fu2] /variant of 服[fu2]/
+
+# source: https://en.wiktionary.org/wiki/%E5%90%8B
+# source: https://baike.baidu.com/item/%E5%90%8B
+# source: Validated by a Chinese speaker
++吋 吋 [dou4] /(archaic) to scold/
+
+# source: https://www.zdic.net/hans/%E5%BD%A1
+# source: https://en.wiktionary.org/wiki/%E5%BD%A1
+# source: Validated by a Chinese speaker
+-彡 彡 [shan1] /"bristle" radical in Chinese characters (Kangxi radical 59)/
++彡 彡 [shan1] /"bristle" radical in Chinese characters (Kangxi radical 59)/hair/
+
+# source: https://www.zdic.net/hans/%E5%8F%80
+# source: https://baike.baidu.com/item/%E5%8F%80
+# source: Validated by a Chinese speaker
++叀 叀 [zhuan1] /ancient instrument to collect silk/
+
+# source: https://en.wiktionary.org/wiki/%F0%A7%98%87
+# source: Validated by a Chinese speaker
++𧘇 𧘇 [yi1] /clothes radical, variant of 衣[yi1]/to wear/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%82%A4
+# source: https://zh.wiktionary.org/zh-hans/%F0%A0%82%A4
+# it may be related to 阜 阜 [fu4] /abundant/mound/
+# source: Validated by a Chinese speaker
++𠂤 𠂤 [fu4] /to store up, to pile up radical/mound/mountain/old variant of 堆 [dui1]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%AC%9B
++𠬛 𠬛 [mo4/ma4] /to dive into water to get something/
+
+# source: https://en.wiktionary.org/wiki/%E8%A6%80
+# source: https://en.wiktionary.org/wiki/%E8%A5%BF
+# xi1 was verified by Chinese reader
++覀 覀 [xi1] /west, western radical/variant of 西[xi1]/
++覀 覀[ya4/xia4] /cover/variant of 襾 [ya4/xia4]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A2%86%89
++𢆉 𢆉 [ren3] /to pierce/
+
+# source: https://en.wiktionary.org/wiki/%E4%B8%81
+# source: http://xh.5156edu.com/html3/1666.html
+# Verified by Chinese speaker
+-丁 丁 [ding1] /fourth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]/fourth in order/letter "D" or Roman "IV" in list "A, B, C", or "I, II, III" etc/ancient Chinese compass point: 195°/butyl/cubes (of food)/
++丁 丁 [ding1] /fourth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]/fourth in order/letter "D" or Roman "IV" in list "A, B, C", or "I, II, III" etc/ancient Chinese compass point: 195°/butyl/cubes (of food)/robust/vigorous/man/adult/nail/gold/slave/
+
+# source: https://en.wiktionary.org/wiki/%F0%A3%8E%B3
++𣎳 𣎳 [pin4] /to strip off the skin of hemp stalk/
+
+# source: https://baike.baidu.com/item/%E9%BE%B7
+# source: https://www.zdic.net/hans/%E9%BE%B7
++龷 龷 [gong4] /surrender radical/
+
+# source: https://www.zdic.net/hans/%E5%86%89
+# source: https://en.wiktionary.org/wiki/%E5%86%89
+# source: validated by a Chinese speaker
+-冉 冉 [ran3] /edge of a tortoiseshell/see 冉冉[ran3 ran3]/
++冉 冉 [ran3] /edge of a tortoiseshell/see 冉冉[ran3 ran3]/tender/weak/proceed gradually/
+
+# source: https://www.zdic.net/hans/%E6%9B%BE
+# source: https://en.wiktionary.org/wiki/%E6%9B%BE
+# source: verified by a Chinese speaker
+-曾 曾 [zeng1] /great- (grandfather, grandchild etc)/
++曾 曾 [zeng1] /great- (grandfather, grandchild etc)/unexpectedly/variant of 增[zeng1]/to increase/
+
+# source: https://en.wiktionary.org/wiki/%E5%AF%B8
+# source: https://en.wiktionary.org/wiki/%E5%BF%96
+# source: https://www.zdic.net/hans/%E5%AF%B8
+# source: verified by a Chinese speaker
+-寸 寸 [cun4] /a unit of length/inch/thumb/
++寸 寸 [cun4] /a unit of length/inch/thumb/very short/little/coincidental/unbelievable/opportune/
++寸 寸 [cun3] /variant of 忖[cun3]/to guess/to ponder/to speculate/to suppose/conjecture/
+
+# source: https://en.wiktionary.org/wiki/%E7%AD%89
+# source: https://en.wiktionary.org/wiki/%E6%9C%A9
+# source: https://www.zdic.net/hans/%E6%9C%A9
++朩 朩 [pin4] /variant of 𣎳/𣎳 [pin4]/to strip off skin of hemp stalk/
++朩 朩 [deng3] /variant of 等[deng3]/(archaic) to arrange bamboo slips neatly/rank/class/grade/sort/kind/type/to equate/to be equal/to wait/and the like/and  so on/
+
+# source: https://www.zdic.net/hans/%E3%AB%83
+# source: https://en.wiktionary.org/wiki/%E3%AB%83
+# source: https://en.wiktionary.org/wiki/%E5%81%83
+# source: http://xh.5156edu.com/html3/3114.html
+# source: verified by Chinese speaker
++㫃 㫃 [yan3] /(archaic) flags flying/variant of 偃[yan3]/
+-偃 偃 [yan3] /to lie supine/to stop/to fall down/
++偃 偃 [yan3] /to lie supine/to stop/to fall down/to desist, to cease, to stop/to fall on one's back /to  lie down/to flop down/
+
+# source: https://en.wiktionary.org/wiki/%E2%BA%8C
+# source: verified by a Chinese speaker
++⺌ ⺌ [xiao3] /component form of 小[xiao3]/small/
+
+# source: https://en.wiktionary.org/wiki/%E5%8F%A9
+# source: https://www.zdic.net/hans/%E5%8F%A9
+# source: http://xh.5156edu.com/html3/5365.html
+-叩 叩 [kou4] /to knock/to kowtow/
++叩 叩 [kou4] /to knock/to kowtow/to bow/(literary) to enquire/(literary)to ask/
++叩 叩 [Kou4] /A surname Kou/
+
+# source: https://en.wiktionary.org/wiki/%E5%A3%9E
+# source: https://www.zdic.net/hans/%E5%A3%9E
+# source: http://xh.5156edu.com/html3/9453.html
+# source: validated by a Chinese speaker
+-壞 坏 [huai4] /bad/spoiled/broken/to break down/(suffix) to the utmost/
++壞 坏 [huai4] /bad/spoiled/rotten/spoiled/broken/to break down/(suffix) to the utmost/(classical) to collapse/(classical) to ruin/(classical) to destroy/extremely/
+
+# source: https://en.wiktionary.org/wiki/%E6%8B%B1
+# source: https://www.zdic.net/hans/%E5%BB%BE
+# source: https://en.wiktionary.org/wiki/%E5%BB%BE
+# source: verified by a Chinese speaker
+-廾 廾 [gong3] /hands joined/
++廾 廾 [gong3] /hands joined/two hands/hold with two hands/archaic variant of 拱[gong3]/to  crow around/to surround/
++廾 廾 [nian4] /variant of 廿[nian4]/twenty/twentieth/
+
+# source: https://en.wiktionary.org/wiki/%E4%BB%92
+-仒 仒 [xx5] /one of the characters used in kwukyel (phonetic "eo" or "sya"), an ancient Korean writing system/
++仒 仒 [xx5] /one of the characters used in kwukyel (phonetic "eo" or "sya"), an ancient Korean writing system/obsolete form of 冰 [bing1]/ice/
+
+# source: https://en.wiktionary.org/wiki/%E7%95%90
+# source: https://www.zdic.net/hans/%E7%95%90
+# source: Validated by a Chinese speaker
++畐 畐 [fu2] /full, filled/a kind of container or vessel/variant of 幅[fu2]/width of cloth/
+
+# source: https://en.wiktionary.org/wiki/%E5%8F%A4
+# source: https://zh.wiktionary.org/wiki/%E5%8F%A4
+# source: Validated by a Chinese speaker
+-古 古 [gu3] /ancient/old/paleo-/
++古 古 [gu3] /ancient/old/paleo-/simple/unaffected/unsophisticated/the past/ancient times/history/in the past/old/classic/
+
+# source: https://en.wiktionary.org/wiki/%E4%B9%8D
+# source: https://www.zdic.net/hans/%E4%B9%8D
+# source: https://en.wiktionary.org/wiki/%E4%BD%9C
+# source: Validated by a Chinese speaker
+-乍 乍 [zha4] /at first/suddenly/abruptly/to spread/(of hair) to stand on end/bristling/
++乍 乍 [zha4] /at first/suddenly/abruptly/to spread/(of hair) to stand on end/bristling/ancient variant of 作[zuo4]/just, exactly/
+-作 作 [zuo4] /to do/to grow/to write or compose/to pretend/to regard as/to feel/writings or works/
++作 作 [zuo4] /to do/to grow/to write or compose/to pretend/to regard as/to feel/writings or works/(archaic) to get up to go to work/(archaic)to get up from a place/(archaic) to begin, to arise/(archaic) to serve as/(archaic) affair, matter/(archaic) variant of 詛|诅 [zu3]/
+
+# source: https://en.wiktionary.org/wiki/%E5%BE%B7
++𢛳 𢛳 [de2] /virtue/goodness/morality/ethics/kind/variant of 德[de2]/mind/faith/character/Germany/
+
+# source: https://en.wiktionary.org/wiki/%E8%88%87
+# source: Validated by a Chinese speaker
+-與 与 [yu4] /to take part in/
++與 与 [yu4] /to take part in/(archaic) to interfere/
+-與 与 [yu3] /and/to give/together with/
++與 与 [yu3] /and/to give/together with/(archaic) to agree/(archaic) to permit/(archaic) to help/(archaic) to befriend/(archaic) to choose/(archaic) to deal with/
+
+# source: https://www.zdic.net/hans/%E9%85%89 (cf. french translations)
+# source: https://translate.google.com/?sl=zh-CN&tl=en&text=%E9%85%89&op=translate
+-酉 酉 [you3] /10th earthly branch: 5-7 p.m., 8th solar month (8th September-7th October), year of the Rooster/ancient Chinese compass point: 270° (west)/
++酉 酉 [you3] /10th earthly branch: 5-7 p.m., 8th solar month (8th September-7th October), year of the Rooster/ancient Chinese compass point: 270° (west)/ripe/complete/finished/unitary/a wine vessel/
+
+# source: https://en.wiktionary.org/wiki/%E4%BA%8E
+# source: https://en.wiktionary.org/wiki/%E8%BF%82
++于 于 [yu1] /variant of 迂|迂 [yu1]/large, vast, wide/
+-迂 迂 [yu1] /literal-minded/pedantic/doctrinaire/longwinded/circuitous/
++迂 迂 [yu1] /literal-minded/pedantic/doctrinaire/longwinded/circuitous/far/wide/slow/evil/exaggerated/
++迂 迂 [yu4] /variant of 遇[yu4]/to meet/to come across /to encounter/
+
+# source: https://en.wikipedia.org/wiki/Radical_4
+# source: https://translate.google.com/?sl=zh-CN&tl=fr&text=%E4%B8%BF&op=translate
+# source: validated by a Chinese speaker
+-丿 丿 [pie3] /radical in Chinese characters (Kangxi radical 4)/see 撇[pie3]/
++丿 丿 [pie3] /radical in Chinese characters (Kangxi radical 4)/see 撇[pie3]/to discard/to abandon/to pay/slash/bend/
+
+# source: https://en.wiktionary.org/wiki/%E6%88%A0
+# source: Validated by a Chinese speaker
++戠 戠 [zhi1] /to gather/a sword/potter’s clay/old alternate of 埴 [zhe2]/
+
+# source: https://en.wiktionary.org/wiki/%E5%85%B6 (contains quotations for archaic uses)
+# source: https://www.zdic.net/hans/%E5%85%B6
+# source: http://xh.5156edu.com/html3/1768.html
+-其 其 [qi2] /his/her/its/their/that/such/it (refers to sth preceding it)/
++其 其 [qi2] /his/her/its/their/that/such/it (refers to sth preceding it)/(archaic) among/(archaic) therein/(archaic) perhaps, probably, most likely, can, may, should/still/yet/(archaic) those/(archaic) if/(archaic) conjunction indicating a question with choice/(archaic) adverb indicating imperative/
++其 其 [ji1] /comes at the end of a sentence to indicate doubt/
++其 其 [Qi2] /Surname Qi/
+
+# source: https://en.wiktionary.org/wiki/%E6%AF%94
+# source: https://www.zdic.net/hans/%E6%AF%94
+# source: https://www.zdic.net/hans/%E5%BA%80
+# source: http://xh.5156edu.com/html3/10580.html
+# source: verified by a Chinese speaker
+-比 比 [bi3] /to compare/(followed by a noun and adjective) more {adj.} than {noun}/ratio/to gesture/(Taiwan pr. [bi4] in some compounds derived from Classical Chinese)/
++比 比 [bi3] /to compare/to contrast/to emulate/to copy/to compete/(followed by a noun and adjective) more {adj.} than {noun}/ratio/to gesture/(Taiwan pr. [bi4] in some compounds derived from Classical Chinese)/metaphor/analogy/comparison/juxtaposition/contrast/harmonious/to collude with/to cling/lately/recently/frequently/until/eight exagram of the I Ching/to liken/
++比 比 [bi4] /(archaic) close, near/(archaic) dense/
++比 比 [pi3] /variant of 庀|庀 [pi3]/to have/to possess/
+-庀 庀 [pi3] /to prepare/
++庀 庀 [pi3] /to prepare/to arrange/to have/to possess/to regulate/to hand up/
+
+# source: https://en.wiktionary.org/wiki/%E5%85%80
+# source: https://en.wiktionary.org/wiki/%E5%B0%A2
+# source: https://en.wiktionary.org/wiki/%E5%B0%A4
+#兀 兀 [Wu4] /surname Wu/
+-兀 兀 [wu4] /cut off the feet/rising to a height/towering/bald/
++兀 兀 [wu4] /cut off the feet/rising to a height/towering/bald/still/yet/(archaic) unpeaceful/variant of 尢 [wang1]/
+-尢 尢 [wang1] /lame/
++尢 尢 [wang1] /lame/crippled/variant of 尤 [you2]/
+-尤 尤 [you2] /outstanding/particularly, especially/a fault/to express discontentment against/
++尤 尤 [you2] /outstanding/particularly, especially/a fault/to express discontentment against/to fault/to blame/
+# Unsubmitted words (to be verified)
+
+# source: https://en.wiktionary.org/wiki/%E7%88%B6
+# source: https://en.wiktionary.org/wiki/%E7%94%AB
+# source: https://www.zdic.net/hans/%E7%88%B6
+# We already have a: 父 父 [fu4] /father/
++父 父 [fu3] /father/(literary) old man, elderly man/variant of 甫 [fu3]/
+-甫 甫 [fu3] /(classical) barely/just/just now/
++甫 甫 [fu3] /(classical) barely/just/just now/(archaic) to begin/honorific term placed after courtesy name/
+
+# source: https://en.wiktionary.org/wiki/%E9%83%8E
+# source: https://www.zdic.net/hans/%E9%83%8E
+-郎 郎 [lang2] /(arch.) minister/official/noun prefix denoting function or status/a youth/
++郎 郎 [lang2] /(arch.) minister/official/noun prefix denoting function or status/a youth/(archaic) adult male/(archaic) father/(dated) man of a particular occupation/(archaic) term used by women or servants to address their husband or master/
+
+# source: https://www.zdic.net/hans/%E9%84%89
+# source: https://en.wiktionary.org/wiki/%E9%84%89
+# We already have a :
+# 鄉 乡 [xiang1] /country or countryside/native place/home village or town/township (PRC administrative unit)/
++鄉 乡 [xiang4] /variant of 嚮|向 [xiang4]/to tend toward/to guide/
++鄉 乡 [xiang3] /variant of 饗|飨 [xiang3]/to offer food and drinks/to entertain/
+
+# source: https://en.wiktionary.org/wiki/%E8%81%BF
+# source: https://www.zdic.net/hans/%E8%81%BF
+-聿 聿 [yu4] /(arch. introductory particle)/then/and then/
++聿 聿 [yu4] /(arch. introductory particle)/then/and then/original form of 筆|笔 [bi3]/brush, pencil/
++聿 聿 [Yu4] /Surname Yu/
+
+# source: https://en.wiktionary.org/wiki/%E5%BB%BA
+# source: https://www.zdic.net/hans/%E5%BB%BA
+-建 建 [jian4] /to establish/to found/to set up/to build/to construct/
++建 建 [jian4] /to establish/to found/to set up/to build/to construct/to propose, to suggest/
+
+# source: https://en.wiktionary.org/wiki/%E7%84%B6
+# source: https://www.zdic.net/hans/%E7%84%B6
+-然 然 [ran2] /correct/right/so/thus/like this/-ly/
++然 然 [ran2] /correct/right/so/thus/like this/-ly, suffix to form “in the manner of” adverbs/original form of 燃 [ran2]/to burn/(archaic) to regard as correct, to agree/
+
+# source: https://www.zdic.net/hans/%E5%B0%9A
+# source: https://en.wiktionary.org/wiki/%E5%B0%9A
+# source: https://zh.wiktionary.org/zh-hans/%E5%B0%9A
+-尚 尚 [shang4] /still/yet/to value/to esteem/
++尚 尚 [shang4] /still/yet/to value/to esteem/even/fairly/to revere/to worship/to hold in high esteem/to assist/to administer (for the emperor)/noble/
+
+# variant of meat makes sense with 肰. Others were added for completeness.
+# source: https://en.wiktionary.org/wiki/%E6%9C%88
+# source: https://www.zdic.net/hans/%E6%9C%88
+#月 月 [yue4] /moon/month/monthly/CL:個|个[ge4],輪|轮[lun2]/
++月 月 [rou4] /ancient form of 肉/meat/flesh/pork/
++月 月 [xi1] /ancient form of /dusk/evening/
++月 月 [ming2] /ancient form of  明/bright/
+
+# keen variant can help make sense for 說 (to convince)
+# source: https://baike.baidu.com/item/%E5%85%8C/4505000
+# source: https://www.zdic.net/hans/%E5%85%8C
++兌 兑 [dui4] /to cash/to exchange/to add (liquid)/to blend/one of the Eight Trigrams 八卦[ba1 gua4], symbolizing swamp/☱/
++兌 兑 [rui4] /ancient form of 鋭, itself a variant of 銳|锐/sharp/acute/keen/pointed/
++兌 兑 [yue4] /ancient form of 悅|悦/pleased/joy/contended/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%AE%A0
+# source: https://en.wiktionary.org/wiki/%E5%89%AE
++𠮠 𠮠 [gua3] /variant form of 剮|剐/to cut flesh from the bone/
++𠮠 𠮠 [bai3] /archaic variant of 㗗|㗗/to separate/
+-剮 剐 [gua3] /cut off the flesh as punishment/
++-剮 剐 [gua3] /cut off the flesh as punishment, 凌遲|凌迟 [ling2 chi2]/to cut flesh from the bone/
+
+# source: http://www.zdic.net/hans/%E3%97%97
+# source: https://en.wiktionary.org/wiki/%E3%97%97#Chinese
+# source: https://zh.wiktionary.org/wiki/%E3%97%97 (gives a bei2 pronunciation)
+# source: https://en.wiktionary.org/wiki/%F0%A0%AE%A0 describes 𠮠 as a bai3 variant of it)
+# not sure about the simplified form.
++㗗 㗗 [bai3] /to separate/to part/to split/to crack, to rend/to split open/
+
+# https://en.wiktionary.org/wiki/%F0%A0%82%8A :
+# http://www.chise.org/est/view/character/%F0%A0%82%8A
+# appears in composition of (wikimedia data), which contains knife according to
+# https://www.zdic.net/hans/%F0%A0%AE%A0
+# https://glyphwiki.org/wiki/u2008a is also listed as a ren2 variant apparently?
++𠂊 𠂊 [dao1] /variant of 刀/knife/
+
+# source: https://www.zdic.net/hans/%E5%9C%A5
+# source: https://zh.wiktionary.org/wiki/%E5%9C%A5
+# source: https://en.wiktionary.org/wiki/%E5%9C%A5 to some degree (refer to 菌圥, where 菌 means mushroom)
++圥 圥 [lu4] /mushroom/
+
+# source: https://en.wiktionary.org/wiki/%E4%B8%B8
+# source: https://www.zdic.net/hans/%E4%B8%B8
+-丸 丸 [wan2] /ball/pellet/pill/
++丸 丸 [wan2] /ball/pellet/pill/small round object/(archaic) egg/(archaic) to roll into a ball/
+
+# source: https://www.zdic.net/hans/%E4%B8%B6
+# source: https://en.wiktionary.org/wiki/%E4%B8%B6
+-丶 丶 [zhu3] /"dot" radical in Chinese characters (Kangxi radical 3)/see also 點|点[dian3]/
++丶 丶 [zhu3] /"dot" radical in Chinese characters (Kangxi radical 3)/see also 點|点[dian3]/variant of 主 [zhu3]/master/owner/
+
+# source: https://en.wiktionary.org/wiki/%E5%8D%9C
++卜 卜 [yu4] /variant of 欲/to wish, to desire/
+
+# source: https://en.wiktionary.org/wiki/%E6%95%85
+# source: https://www.zdic.net/hans/%E6%95%85
+-故 故 [gu4] /happening/instance/reason/cause/intentional/former/old/friend/therefore/hence/(of people) to die, dead/
++故 故 [gu4] /happening/instance/reason/cause/intentional/former/old/friend/therefore/hence/(of people) to die, dead/past things, antiquity, ages ago/
+
+# source: https://www.zdic.net/hans/%E7%82%BA
+# source: https://en.wiktionary.org/wiki/%E7%82%BA
+-為 为 [wei2] /as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/
++為 为 [wei2] /as (in the capacity of)/to take sth as/to act as/to serve as/to behave as/to become/to be/to do/by (in the passive voice)/to govern/
+
+# source: https://en.wiktionary.org/wiki/%E5%95%8F
+# source: https://www.zdic.net/hans/%E5%95%8F
+-問 问 [wen4] /to ask/
++問 问 [wen4] /to ask/to inquire/to interrogate/to interfere/to meddle/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%D8d
+# TO VERIFY
+-厤 历 [li4] /old variant of 曆|历[li4]/old variant of 歷|历[li4]/
++厤 历 [li4] /old variant of 曆|历[li4]/old variant of 歷|历[li4]/to manage/
+
+# source: https://www.zdic.net/hans/%F0%A3%B6%92
+# source: http://zhongwen.com/d/u/xyk.htm
+# source: https://en.wiktionary.org/wiki/%F0%A3%B6%92
++𣶒 𣶒 [yuan1] /variant of 淵/渊/abyss/whirlpool/
+
+# source: http://zhongwen.com/cgi-bin/zipux.cgi?=%AD%EC
++𤽄 𤽄 [quan2?] /maybe a variant of 泉[quan2], e.g. appears in 原 or 源/
+
+# source: https://en.wiktionary.org/wiki/%F0%A3%A5%82
++𣥂 𣥂 [ta4] /to step on/to trample/to tread on/same as 蹋 and 踏/
+
+# source: http://zhongwen.com/d/u/xs8.htm
+# source: https://en.wiktionary.org/wiki/%F0%A0%98%A7
+# source: https://www.zdic.net/hans/%F0%A0%98%A7
++𠘧 𠘧 [shu2] /to flap/
+
+# source: https://en.wiktionary.org/wiki/%F0%A4%94%94
+# source: https://www.zdic.net/hans/%F0%A4%94%94
++𤔔 𤔔 [luan4] /(archaic) to govern/(archaic) to control/
+
+# source: https://en.wiktionary.org/wiki/%F0%A2%96%BB
+# source: https://www.zdic.net/hans/%F0%A2%96%BB
+# source: https://zh.wiktionary.org/zh-hans/%F0%A2%96%BB
++𢖻 𢖻 [ai4] /ancient form of 愛|爱[ai4]/to love/to like/
+
+# source: https://en.wiktionary.org/wiki/%F0%A0%95%81
+# source: https://www.zdic.net/hans/%F0%A0%95%81
++𠕁 𠕁 [cong2] /(archaic) hole/
++𠕁 𠕁 [ce4] /variant form of 冊|册 [ce4]/book/
+
+# 什麼 什么 [shen2 me5] is in CC-CEDICT; google translate correctly
+# associate 甚麼 to the same meaning, and CC-CEDICT defines 甚 as a
+# variant of 什.
++甚麼 什么 [shen2 me5] /variant of 什麼|什么 [shen2 me5]/
+
+# source: google-translate
++目地 目地 [mu3 de5] /purpose/
+
+# source: https://en.wiktionary.org/wiki/%F0%A2%86%B6
+# source: https://www.zdic.net/hans/%F0%A2%86%B6
+# source: https://en.wiktionary.org/wiki/%E7%8E%86#Chinese
+# source: https://www.zdic.net/hans/%E7%8E%86
++𢆶 𢆶 [you1] /minute/extremely small/infinitesimal/
++𢆶 𢆶 [zi1] /variant of 玆[zi1]/muddy/black/dirty/
+-玆 玆 [zi1] /variant of 茲|兹[zi1]/now/here/this/time/year/
++玆 玆 [zi1] /variant of 茲|兹[zi1]/now/here/this/time/year/muddy/black/dirty/
+
+# source: https://en.wiktionary.org/wiki/%E4%B9%9A
+# source: https://www.zdic.net/hans/%E4%B9%9A
+# source: http://zhongwen.com/d/u/xyn.htm
++乚 乚 [yin3] /variant form of 隱|隐 [yin3]/to conceal/to hide/
+
+# found in 卯's decomposition; zhongmen qualifies it as
+# a deformation of doors.
+#𠂎 𠂎 [] /variant of 𧘇/
+
+# source: https://zh.m.wiktionary.org/zh/%F0%A6%97%9F
++𦗟 𦗟 [ting1] /variant of 聽|听[ting1]/
+
+# source: https://translate.google.com/?sl=zh-CN&tl=fr&text=%E7%BC%98%E4%BB%BD&op=translate
+# source: https://en.wiktionary.org/wiki/%E7%B7%A3%E4%BB%BD
++緣份 缘份 [yuan2 fen4] /variant of 緣分|缘分 [yuan2 fen4]/fate/destiny/
+
+# source: https://en.wiktionary.org/wiki/%F0%A7%B0%A8
+# source: https://www.zdic.net/hans/%F0%A7%B0%A8
++𧰨 𧰨 [geng4] /to gather/
+
+# source: https://zh.wiktionary.org/zh-hans/%E5%B0%B1%E5%BE%97
+# source: https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%B0%B1%E5%BE%97&op=translate
++就得 就得 [jiu4 de2] /have to/must/
+
+# source: https://en.wiktionary.org/wiki/%E3%A1%AD
+# source: https://www.zdic.net/hans/%E3%A1%AD
+# source: https://zh.wiktionary.org/zh-hans/%E3%A1%AD
++㡭 㡭 [ji4] /ancient form of 繼|继 [ji4]/to continue/to maintain/
+
+# source: https://www.zdic.net/hans/%E5%A5%9E
+# source: https://en.wiktionary.org/wiki/%E5%A5%9E
++奞 奞 [zhui4] /the stride made by a man/
++奞 奞 [xun4] /spread wings/
+
+# source: https://en.wiktionary.org/wiki/%E5%90%B3
++吳 吴 [wu2] /(archaic) to speak loudly/(archaic) to shout/(archaic) big/
++吳 吴 [yu2] /alternative form of 虞[yu2]/
+
+# source: https://en.wiktionary.org/wiki/%E8%99%9E
+-虞 虞 [yu2] /to expect/to anticipate/to worry/to cheat/
++虞 虞 [yu2] /to expect/to anticipate/to worry/to cheat/doubt/guess/fear/suspect/danger/risk/to deceive/
+
+# source: https://en.wiktionary.org/wiki/%E9%BB%9E
+# source: https://www.zdic.net/hans/%E9%BB%9E
+-點 点 [dian3] /point/dot/drop/speck/o'clock/point (in space or time)/to draw a dot/to check on a list/to choose/to order (food in a restaurant)/to touch briefly/to hint/to light/to ignite/to pour a liquid drop by drop/(old) one fifth of a two-hour watch 更[geng1]/dot stroke in Chinese characters/classifier for items/
++點 点 [dian3] /point/dot/drop/speck/o'clock/point (in space or time)/to draw a dot/to check on a list/to choose/to order (food in a restaurant)/to touch briefly/to hint/to light/to ignite/to pour a liquid drop by drop/(old) one fifth of a two-hour watch 更[geng1]/dot stroke in Chinese characters/classifier for items/a little/a bit/some/
+
+# source: https://zh.wiktionary.org/zh-hans/%F0%A5%8F%AB
+# source: https://ctext.org/dictionary.pl?if=en&char=%F0%A5%8F%AB
+# source: Kangxi
+# Personnal take, to take with a grain of salt
++𥏫 𥏫 [shang1] /variant of 𥏻/variant of 𥏲/fatal injury/mortal wound/sound of a gun/
+
+# source: https://en.wiktionary.org/wiki/%E4%B8%AF
+# source: https://www.zdic.net/hans/%E4%B8%AF
+# source: Unihan (https://ctext.org/dictionary.pl?if=en&char=%E4%B8%AF)
++丯 丯 [jie4] /(archaic) weed/dense/
++丯 丯 [qia4] /(archaic) original form of 㓞 [qia4]/
++丯 丯 [qi4] /(archaic) original form of 契 [qi4]/
+
+# source: https://en.wiktionary.org/wiki/%E3%93%9E#Chinese
++㓞 㓞 [qia4] /to engrave/variant of 契 [qi4]/
+
+# source: https://en.wiktionary.org/wiki/%E5%86%93
+# source: https://www.zdic.net/hans/%E5%86%93
+# source:
+-冓 冓 [gou4] /inner rooms of palace/ten billions/
++冓 冓 [gou4] /inner rooms of palace/ten billions/secret place/cabinet/(archaic) original form of 遘[gou4], to meet/original form of 構|构 [gou4]/crossly accumulated woods/
+-遘 遘 [gou4] /meet unexpectedly/
+# source: https://en.wiktionary.org/wiki/%E9%81%98#Chinese
++遘 遘 [gou4] /meet unexpectedly/to meet/to encounter/
+
+# source: https://en.wiktionary.org/wiki/%E5%8F%B0
+#	TODO: add all variants.
+# source: http://zhongwen.com/d/165/x120.htm
++台 台 [yi2] /original form of 怡[yi2], joy/(archaic) I, me/
+# source:https://en.wiktionary.org/wiki/%E6%80%A1
+-怡 怡 [yi2] /harmony/pleased/
++怡 怡 [yi2] /harmony/pleased/joy/cheerful/contended/happy/joyous/
+
+# source: https://en.wiktionary.org/wiki/%F0%A7%88%A7
+# source: https://www.zdic.net/hans/%F0%A7%88%A7
++𧈧 𧈧 [sui1] /variant of 雖|虽[sui1]/
+# source: https://en.wiktionary.org/wiki/%E9%9B%96
+-雖 虽 [sui1] /although/even though/
++雖 虽 [sui1] /although/even though/despite/(archaic) lizard-like, reptile/(archaic) to push/
+
+# source: https://en.wiktionary.org/wiki/%E5%B0%BC
+# source: https://www.zdic.net/hans/%E5%B0%BC
+-尼 尼 [ni2] /Buddhist nun/(often used in phonetic spellings)/
++尼 尼 [ni2] /Buddhist nun/(often used in phonetic spellings)/(archaic) near, close, intimate/(archaic) peaceful, calm/(archaic) harmonious/
++尼 尼 [Ni2] /surname Ni/
++尼 尼 [ni3] /(archaic) to stop, to obstruct, to impede/
+
+# source: https://www.zdic.net/hans/%E5%8F%AC
+# source: https://en.wiktionary.org/wiki/%E5%8F%AC
+-召 召 [zhao4] /to call together/to summon/to convene/temple or monastery (used in place names in Inner Mongolia)/
++召 召 [zhao4] /to call together/to summon/to convene/temple or monastery (used in place names in Inner Mongolia)/imperial decree/
+
+# source: http://chinese-characters.org/meaning/5/5F56.html
+# source: https://www.zdic.net/hans/%E5%BD%96
+-彖 彖 [tuan4] /to foretell the future using the trigrams of the Book of Changes 易經|易经/
++彖 彖 [tuan4] /to foretell the future using the trigrams of the Book of Changes 易經|易经/hog/hedgehog/porcupine/
+
+# source: https://en.wiktionary.org/wiki/%F0%A2%87%87
+# source: https://www.zdic.net/hans/%F0%A2%87%87
+# source: http://zhongwen.com/d/u/xg1.htm
++𢇇 𢇇 [guan1] /to run threads to a web in weaving, weaving silk/
+
+# source: https://www.zdic.net/hans/%E9%97%9C
+# source: https://en.wiktionary.org/wiki/%E9%97%9C
+# source: http://chinese-characters.org/meaning/9/95DC.html
+-關 关 [guan1] /mountain pass/to close/to shut/to turn off/to concern/to involve/
++關 关 [guan1] /mountain pass/to close/to shut/to turn off/to concern/to involve/to detain/to lock up/relation (family, contacts)/to go through/
+
+# source: https://en.wiktionary.org/wiki/%E4%BB%A5
+-以 以 [yi3] /to use/by means of/according to/in order to/because of/at (a certain date or place)/
++以 以 [yi3] /to use/by means of/according to/in order to/because of/at (a certain date or place)/(archaic) therefore, thus/preposition indicating a boundary in time, space/
+
+# source: https://www.zdic.net/hans/%E5%8E%B6
+# source: https://en.wiktionary.org/wiki/%E5%8E%B6
+-厶 厶 [si1] /old variant of 私[si1]/
++厶 厶 [si1] /old variant of 私[si1]/private, secret (Kangxi radical 28)/
+
+# source: https://www.zdic.net/hans/%F0%A6%8D%8E
++𦍎 𦍎 [qiang1] /variant of 羌[qiang1]/
+
+# source: http://zhongwen.com/d/u/xf5.htm
+# source: http://chinese-characters.org/meaning/7/7536.html
+# source: https://en.wiktionary.org/wiki/%E7%94%B6
+# source: https://www.zdic.net/hans/%E7%94%B6
++甶 甶 [fu2] /head of a ghost, demon, spirit/
+
+# source: https://en.wiktionary.org/wiki/%E7%9D%98
+# source: https://www.zdic.net/hans/%E7%9D%98
+# source: http://chinese-characters.org/meaning/7/778F.html
+-睘 睘 [qiong2] /variant of 瞏[qiong2]/
++睘 睘 [qiong2] /variant of 瞏[qiong2]/variant of 還|还[huan2]/round/stare/
+-瞏 瞏 [qiong2] /to gaze in terror/lonely/
++瞏 瞏 [qiong2] /to gaze in terror/lonely/round/stare/
+
+# source: https://www.zdic.net/hans/%E9%81%80
+# source: https://en.wiktionary.org/wiki/%E9%81%80
++遀 遀 [sui2] /variant of 随[sui2]/ancient form of 隨[sui2]/ancient form of 隋/
+
+# source: https://en.wiktionary.org/wiki/%E5%A2%AE
++隋 隋 [duo4] /ancient form of 墮[duo4], to fall; to degenerate/ancient form of 惰[duo4], lazy/
++隋 隋 [hui1] /ancient form of 隳[hui1], to destroy/
++隋 隋 [tuo3] /ancient form of 橢|椭[tuo3], elliptical/
+
+# source: https://en.wiktionary.org/wiki/%E9%9A%B3
++隳 隳 [duo4] /obsolete form of 惰[duo4], lazy/
+
+# source: https://en.wiktionary.org/wiki/%E6%A9%A2
+-橢 椭 [tuo3] /ellipse/
++橢 椭 [tuo3] /ellipse/(archaic) oval-shaped container/long and narrow/oval-shaped/elliptical/
+
+# source: https://en.wiktionary.org/wiki/%F0%A4%AF%9D
++𤯝 𤯝 [sheng3] /(archaic) to free oneself from distracting thoughts/variant form of 眚[sheng3], eye disease/
++𤯝 𤯝 [qing1] /variant form of 青[qing1]/
+
+# source: http://zhongwen.com/d/u/xz5.htm
+# NOTE: actually a pict.csv entry; copied here just to have something
+# in the dict; we may want to delete it later.
++𠂇 𠂇 [zuo3] /pictograph of the left hand/
+
+# source: https://www.zdic.net/hans/%E9%9A%93
++隓 隓 [hui1] /ancient form of 隳[hui1], destroy/
++隓 隓 [duo4] /ancient form of 墮|堕[duo4], to fall/
+
+# source: https://en.wikipedia.org/wiki/Bamboo_and_wooden_slips
+# source: https://zh.wikipedia.org/wiki/%E7%AE%80%E7%89%8D
++简牍 简牍 [jian3 du2] /bamboo and wooden slips: pre-paper book format, written on bamboo strips, tied together/
+
+# source: Pleco (android app) at least at some point in time
++龶 龶 [feng1] /variant of 豐|丰 [feng1]/abundant/bountiful/plenty/
+
+# source: http://chinese-characters.org/meaning/9/9752.html
+# source: http://zhongwen.com/d/171/x67.htm
++龶 龶 [sheng1] /variant of 生|生 [sheng1]/
+
+# source: https://en.wiktionary.org/wiki/%E3%90%B1
+# source: https://www.zdic.net/hans/%E3%90%B1
+# source: http://chinese-characters.org/meaning/3/3431.html
++㐱 㐱 [zhen3] /variant of 鬒|鬒 [zhen3]/thick hair/
+
+# Scarce input.
+# source: https://en.wiktionary.org/wiki/%F0%A0%80%90
++𠀐 𠀐 [zhong1] /(taiwan) only used in personnal names/
+
+# source: https://en.wiktionary.org/wiki/%E5%87%A0
++几 几 [shu2] /variant of 𠘧/small wing, to flap/
+
+# source: https://translate.google.com/?sl=zh-CN&tl=en&text=%E8%A6%BA%E8%80%85
++覺者 覺觉 [jue2 zhe3] /enlightened being/
+
+# source: https://translate.google.com/?sl=zh-CN&tl=en&text=%E8%80%85%E5%80%91
++者們 者們 [zhe3 men5] /people/
+
+# source: https://translate.google.com/?sl=zh-CN&tl=en&text=%E8%A6%BA%E8%80%85%E5%80%91
+覺者們 覺觉們 [jue2 zhe3 men5] /enlightened beings/
+
+# source: https://en.wiktionary.org/wiki/%E8%A6%BA (to wake up)
+# source: https://www.zdic.net/hans/%E8%A6%BA (sage)
+# source: personnal take (knowledgeable)
+-覺 觉 [jue2] /to feel/to find that/thinking/awake/aware/
++覺 觉 [jue2] /to feel/to find that/thinking/awake/aware/(archaic) to wake up from sleep, to awaken/sage, knowledgeable/
+
+# source: https://www.zdic.net/hans/%E4%B8%A9
+# source: https://zh.wiktionary.org/zh-hans/%E4%B8%A9
+# source: http://zhongwen.com/d/u/xj6.htm
+-丩 丩 [jiu1] /archaic variant of 糾|纠[jiu1]/
++丩 丩 [jiu1] /archaic variant of 糾|纠[jiu1]/to connect the vine/curved/entangled/
+
+# source: https://en.wiktionary.org/wiki/%E8%A8%B1%E8%A8%B1%E5%A4%9A%E5%A4%9A
+# source: https://translate.google.com/?sl=zh-CN&tl=en&text=%E8%A8%B1%E8%A8%B1%E5%A4%9A%E5%A4%9A%0A&op=translate
++許許多多 许许多多 [xu3 xu3 duo1 duo1] /a good deal of/a lot/
+
+# source: https://en.wiktionary.org/wiki/%E5%88%B6
+-制 制 [zhi4] /system/to control/to regulate/variant of 製|制[zhi4]/
++制 制 [zhi4] /system/law/rules/to control/to regulate/to restrict/to limit/to rule/to overpower/variant of 製|制[zhi4]/
+
+# source: https://en.wiktionary.org/wiki/%F0%A1%88%BC
+# TODO: also a variant of 莛, but does not exists as a trad entry.
++𡈼 𡈼 [ting3] /good/to stand upright/
++𡈼 𡈼 [ren2] /variant of 壬|壬 [ren2]/
++𡈼 𡈼 [wang2] /variant of 王|王 [wang2]/
++𡈼 𡈼 [zheng1] /variant of 徵|征 [zheng1]/
+
+# https://en.wiktionary.org/wiki/%E5%BE%B5
+-徵 征 [zheng1] /to invite/to recruit/to levy (taxes)/to draft (troops)/phenomenon/symptom/characteristic sign (used as proof)/evidence/
++徵 征 [zheng1] /to invite/to recruit/to summon/to levy (taxes)/to draft (troops)/phenomenon/symptom/characteristic sign (used as proof)/evidence/
+
+
+# source: https://en.wiktionary.org/wiki/%F0%A2%BC%B8
+# source: http://zhongwen.com/d/u/xu2.htm
+# source: http://chinese-characters.org/meaning/2/22F38.html
++𢼸 𢼸 [wei1] /obsolete, original form of 微 [wei1]/slender, fine/
+
+# source: https://en.wiktionary.org/wiki/%E6%89%81
+# source: https://www.zdic.net/hans/%E6%89%81
+-扁 扁 [bian3] /flat/(coll.) to beat (sb) up/old variant of 匾[bian3]/
++扁 扁 [bian3] /flat/(coll.) to beat (sb) up/old variant of 匾[bian3]/to inscribe on the door/to curl one's lisp/to underestimate, to underrate/
+
+# source: https://en.wiktionary.org/wiki/%E6%89%81
+# source: https://www.zdic.net/hans/%E6%89%81
+-扁 扁 [pian1] /small boat/
++扁 扁 [pian1] /small boat/small, little, narrow/
+
+# source: https://en.wiktionary.org/wiki/%E4%BE%86%E8%AA%AA
++來說 来说 [lai2 shuo1] /concerning, about/
+
+# source: https://en.wiktionary.org/wiki/%E8%AA%AA%E4%BE%86
++說來 说来 [shuo1 lai2] /having brought this up, come to speak of it/
+
+# source: https://en.wiktionary.org/wiki/%E7%BD%92
++⺫ ⺫ [wang3] /eye radical; Kangxi radical 122, variant of 网|网 [wang3] (⺲)/
+
+# source: personnal take
++𤣩 𤣩 [wang2] /radical variant of 王|王[wang2]/
+
+# Seems to be an unicode visual variant
+# source: personnal take
++⻏ ⻏ [fu4] /component form of 阝|阝[fu4]/
+
++張路 张路 [Zhang1 Lu4] /Zhang Lu (1464-1538), Chinese landscape painter from the Ming Dynasty/
+
+## TODO
+
+# Often used
+#𤰔 𤰔 409
+# https://en.wiktionary.org/wiki/%E5%8F%B0 variants
+# https://en.wiktionary.org/wiki/%E6%B0%94 variants
+# https://en.wiktionary.org/wiki/%E7%A4%BA variants
+# https://en.wiktionary.org/wiki/%E5%A4%95 variants
+# https://en.wiktionary.org/wiki/%E5%87%A0 variants
+
+# https://en.wiktionary.org/wiki/%E7%95%B6 has a lot more pronunciations.
+# https://www.zdic.net/hans/%E7%95%B6
+
+# http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=2008A
+
+# 埶 https://en.wiktionary.org/wiki/%E5%9F%B6, https://www.zdic.net/hans/%E5%9F%B6
+
+# 𥥍 one more variant: https://en.wiktionary.org/wiki/%E7%BD%99 (https://en.wiktionary.org/wiki/%F0%A5%A5%8D#Chinese) which makes sense according to http://zhongwen.com/d/u/xs4.htm
